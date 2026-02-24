@@ -21,7 +21,7 @@ export default function Team() {
             </h2>
             <div className="flex items-center gap-4 text-xs font-mono text-[#656D76]">
                <span className="flex items-center gap-1.5">
-                  <span className="w-2 h-2 rounded-full bg-[#2da44e]" /> 05_active_nodes
+                  <span className="w-2 h-2 rounded-full bg-[#2da44e]" /> 02_active_nodes
                </span>
                <span>// production_ready</span>
             </div>
